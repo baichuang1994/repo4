@@ -10,4 +10,9 @@ public class FistClass {
         System.out.println("ddddddddddd");
         System.out.println("ddddddddddd");
     }
+
+    //修改
+    public void test(){
+        System.out.println("111111111");
+    }
 }
