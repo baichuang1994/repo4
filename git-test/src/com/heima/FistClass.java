@@ -14,5 +14,7 @@ public class FistClass {
     //修改
     public void test(){
         System.out.println("111111111");
+        //修改2
+        System.out.println("2222222");
     }
 }
